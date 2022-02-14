@@ -11,9 +11,9 @@ email: [neryupov@rambler.ru](mailto:neryupov@rambler.ru)
 >   - SQL
 
 `For example my code:`
-```
+
 https://den-08.github.io/shelter/pages/main/main.html
-```
+
 I have no experience in web development. After receiving my diploma, I worked at *Rostelecom* with network equipment, then moved to *Rossetti South*, where I still work with automated electricity metering systems.
 
 Graduated from the *Povolzhskaya State Academy of Telecommunications and Informatics* (Samara). Now I study in the *Rolling Scopes School*.
