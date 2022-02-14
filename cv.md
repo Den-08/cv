@@ -4,25 +4,15 @@ email: [neryupov@rambler.ru](mailto:neryupov@rambler.ru)
 **My goal is to become a web developer. I like working with computer technology. I'm easy to learn, polite in communication.**
 
 > ***I studied:***
->   - Pascal
->   - Delphi
->   - C++
+>   - HTML
+>   - CSS
+>   - JS
 >   - PHP
 >   - SQL
 
-`For example code only:`
+`For example my code:`
 ```
-// BEGIN
-const encrypt = (str) => {
-  let result = '';
-  for (let i = 0; i < str.length; i += 2) {
-    const nextSymbol = str[i + 1] || '';
-    result = `${result}${nextSymbol}${str[i]}`;
-  }
-
-  return result;
-};
-// END
+https://den-08.github.io/shelter/pages/main/main.html
 ```
 I have no experience in web development. After receiving my diploma, I worked at *Rostelecom* with network equipment, then moved to *Rossetti South*, where I still work with automated electricity metering systems.
 
