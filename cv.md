@@ -15,7 +15,7 @@ email: [neryupov@rambler.ru](mailto:neryupov@rambler.ru)
 >   - [https://den-08.github.io/gem-puzzle](https://den-08.github.io/gem-puzzle)
 >   - [https://den-08.github.io/gb_html-css](https://den-08.github.io/gb_html-css)
 
->   - [https://github.com/Den-08/basic-js](https://github.com/Den-08/gb_js1)
+>   - [https://github.com/Den-08/gb_js1](https://github.com/Den-08/gb_js1)
 >   - [https://github.com/Den-08/basic-js](https://github.com/Den-08/basic-js)
 >   - [https://github.com/Den-08/brackets](https://github.com/Den-08/brackets)
 >   - [https://github.com/Den-08/human-readable-number](https://github.com/Den-08/human-readable-number)
